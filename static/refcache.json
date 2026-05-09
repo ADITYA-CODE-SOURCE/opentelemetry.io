@@ -19795,6 +19795,10 @@
     "StatusCode": 206,
     "LastSeen": "2026-04-30T10:22:11.563992724Z"
   },
+  "https://nodejs.org/api/v8.html#v8getheapstatistics": {
+    "StatusCode": 206,
+    "LastSeen": "2026-05-09T10:44:18.612315578Z"
+  },
   "https://nodejs.org/docs/latest/api/globals.html#fetch": {
     "StatusCode": 200,
     "LastSeen": "2026-04-29T13:25:02.40260836Z"
